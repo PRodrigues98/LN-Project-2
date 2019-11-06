@@ -1,0 +1,1 @@
+rm delivery/FINALpdf/* delivery/FINALtransducers/* delivery/FINALexamples/*
