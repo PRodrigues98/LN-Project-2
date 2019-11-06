@@ -3,7 +3,9 @@
 The test files are named test_**_fstToTest_**.txt
 
 The test format is the following:
-	**_Test word_**	**_Expected return_**
+```
+	Test word	Expected return
+```
 
 Example:
 
