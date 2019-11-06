@@ -1,6 +1,6 @@
-##Test Format
+## Test Format
 
-The test files are named test__fstToTest_**.txt
+The test files are named test_ _fstToTest_** .txt
 
 The test format is the following:
 	{Test word}	{Expected return}
