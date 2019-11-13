@@ -27,29 +27,34 @@
 0 0 á á
 0 0 ã ã
 
+
 0 1 a eps
 1 2 r eps
 2 3 +V eps
 3 4 +is e
-4 15 +1s i
+4 17 +1s i
 
-0 5 r eps
-5 6 +V s
-6 7 +is t
-7 15 +2s e
+0 5 a a
+5 6 r eps
+6 7 +V s
+7 8 +is t
+8 17 +2s e
 
-3 8 +is o
-8 15 +3s u
+3 9 +is o
+9 17 +3s u
 
-2 9 +V á
-9 10 +is m
-10 11 +1p o
-11 15 eps s
+2 10 +V á
+10 11 +is m
+11 12 +1p o
+12 17 eps s
 
-7 12 +2p e
-12 15 eps s
+8 13 +2p e
+13 17 eps s
 
-0 13 +V eps
-13 14 +is a
-14 15 +3p m
-15
+5 14 r r
+14 15 +V eps
+15 16 +is a
+16 17 +3p m
+
+
+17

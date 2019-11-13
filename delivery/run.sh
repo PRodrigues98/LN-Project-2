@@ -1,3 +1,4 @@
+#!/bin/bash
 # Transdutores básicos
 
 # Compila e gera a versão gráfica de lemma2noun

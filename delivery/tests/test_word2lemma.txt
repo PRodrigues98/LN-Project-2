@@ -1,0 +1,5 @@
+alunas alunar+V+ip+2s aluno+N+fp
+brinco brincar+V+ip+1s brinco+N+ms
+amigas amigar+V+ip+2s amigo+N+fp
+alga algar+V+ip+3s algo+N+fs
+jogamos jogar+V+ip+1p jogamo+N+mp

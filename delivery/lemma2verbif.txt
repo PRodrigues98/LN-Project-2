@@ -27,24 +27,29 @@
 0 0 á á
 0 0 ã ã
 
-0 1 +V e
-1 2 +if i
-2 10 +1s eps
 
-0 3 +V á
-3 4 +if s
-4 10 +2s eps
+0 1 a a
+1 2 r r
+2 3 +V e
+3 4 +if i
+4 12 +1s eps
 
-3 5 +if eps
-5 10 +3s eps
+2 5 +V á
+5 6 +if s
+6 12 +2s eps
 
-1 6 +if m
-6 7 +1p o
-7 10 eps s
+5 7 +if eps
+7 12 +3s eps
 
-2 10 +2p s
+3 8 +if m
+8 9 +1p o
+9 12 eps s
 
-0 8 +V ã
-8 9 +if o
-9 10 +3p eps
-10
+4 12 +2p s
+
+2 10 +V ã
+10 11 +if o
+11 12 +3p eps
+
+
+12
