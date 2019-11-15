@@ -1,6 +1,0 @@
-jogar+V+ip+1s 
-jogar+V+ip+2s 
-jogar+V+ip+3s 
-jogar+V+ip+1p 
-jogar+V+ip+2p 
-jogar+V+ip+3p 

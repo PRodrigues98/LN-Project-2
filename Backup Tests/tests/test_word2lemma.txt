@@ -1,0 +1,142 @@
+aluno alunar+V+ip+1s aluno+N+fp
+alunos aluno+N+fp
+aluna alunar+V+ip+2s aluno+N+fp
+alunas alunar+V+ip+2s aluno+N+fp
+brinco brincar+V+ip+1s brinco+N+ms
+amigas amigar+V+ip+2s amigo+N+fp
+alga algar+V+ip+3s algo+N+fs
+auspiciosamente auspiciosamente+ADV
+abespinhadamente abespinhadamente+ADV
+abnegadamente abnegadamente+ADV
+abominavelmente abominavelmente+ADV
+abreviadamente abreviadamente+ADV
+abundantemente abundantemente+ADV
+acachapadamente acachapadamente+ADV
+adicionalmente adicionalmente+ADV
+afectuosamente afectuosamente+ADV
+amo amar+V+ip+1s amo+N+ms
+amas amar+V+ip+2s amo+N+fp
+ama amar+V+ip+3s amo+N+fs
+amamos amar+V+ip+1p amamo+N+mp
+amais amar+V+ip+2p
+amam amar+V+ip+3p
+amei amar+V+is+1s
+amaste amar+V+is+2s
+amou amar+V+is+3s
+amámos amar+V+is+1p amámo+N+mp
+amastes amar+V+is+2p
+amaram amar+V+is+3p amarar+V+ip+3p
+amarei amar+V+if+1s amarar+V+is+1s
+amarás amar+V+if+2s
+amará amar+V+if+3s
+amaremos amar+V+if+1p amaremo+N+mp
+amareis amar+V+if+2p
+amarão amar+V+if+3p amarão+N+ms amarãar+V+ip+1s
+estudo estudar+V+ip+1s estudo+N+ms
+estudas estudar+V+ip+2s estudo+N+fp
+estuda estudar+V+ip+3s estudo+N+fs
+estudamos estudar+V+ip+1p estudamo+N+mp
+estudais estudar+V+ip+2p
+estudam estudar+V+ip+3p
+estudei estudar+V+is+1s
+estudaste estudar+V+is+2s
+estudou estudar+V+is+3s
+estudámos estudar+V+is+1p estudámo+N+mp
+estudastes estudar+V+is+2p
+estudaram estudar+V+is+3p estudarar+V+ip+3p
+estudarei estudar+V+if+1s estudarar+V+is+1s
+estudarás estudar+V+if+2s
+estudará estudar+V+if+3s
+estudaremos estudar+V+if+1p estudaremo+N+mp
+estudareis estudar+V+if+2p
+estudarão estudar+V+if+3p estudarão+N+ms estudarãar+V+ip+1s
+gosto gostar+V+ip+1s gosto+N+ms
+gostas gostar+V+ip+2s gosto+N+fp
+gosta gostar+V+ip+3s gosto+N+fs
+gostamos gostar+V+ip+1p gostamo+N+mp
+gostais gostar+V+ip+2p
+gostam gostar+V+ip+3p
+gostei gostar+V+is+1s
+gostaste gostar+V+is+2s
+gostou gostar+V+is+3s
+gostámos gostar+V+is+1p gostámo+N+mp
+gostastes gostar+V+is+2p
+gostaram gostar+V+is+3p gostarar+V+ip+3p
+gostarei gostar+V+if+1s gostarar+V+is+1s
+gostarás gostar+V+if+2s
+gostará gostar+V+if+3s
+gostaremos gostar+V+if+1p gostaremo+N+mp
+gostareis gostar+V+if+2p
+gostarão gostar+V+if+3p gostarão+N+ms gostarãar+V+ip+1s
+voo voar+V+ip+1s voo+N+ms
+voas voar+V+ip+2s voo+N+fp
+voa voar+V+ip+3s voo+N+fs
+voamos voar+V+ip+1p voamo+N+mp
+voais voar+V+ip+2p
+voam voar+V+ip+3p
+voei voar+V+is+1s
+voaste voar+V+is+2s
+voou voar+V+is+3s
+voámos voar+V+is+1p voámo+N+mp
+voastes voar+V+is+2p
+voaram voar+V+is+3p voarar+V+ip+3p
+voarei voar+V+if+1s voarar+V+is+1s
+voarás voar+V+if+2s
+voará voar+V+if+3s
+voaremos voar+V+if+1p voaremo+N+mp
+voareis voar+V+if+2p
+voarão voar+V+if+3p voarão+N+ms voarãar+V+ip+1s
+converso conversar+V+ip+1s converso+N+ms
+conversas conversar+V+ip+2s converso+N+fp
+conversa conversar+V+ip+3s converso+N+fs
+conversamos conversar+V+ip+1p conversamo+N+mp
+conversais conversar+V+ip+2p
+conversam conversar+V+ip+3p
+conversei conversar+V+is+1s
+conversaste conversar+V+is+2s
+conversou conversar+V+is+3s
+conversámos conversar+V+is+1p conversámo+N+mp
+conversastes conversar+V+is+2p
+conversaram conversar+V+is+3p conversarar+V+ip+3p
+conversarei conversar+V+if+1s conversarar+V+is+1s
+conversarás conversar+V+if+2s
+conversará conversar+V+if+3s
+conversaremos conversar+V+if+1p conversaremo+N+mp
+conversareis conversar+V+if+2p
+conversarão conversar+V+if+3p conversarão+N+ms conversarãar+V+ip+1s
+informo informar+V+ip+1s informo+N+ms
+informas informar+V+ip+2s informo+N+fp
+informa informar+V+ip+3s informo+N+fs
+informamos informar+V+ip+1p informamo+N+mp
+informais informar+V+ip+2p
+informam informar+V+ip+3p
+informei informar+V+is+1s
+informaste informar+V+is+2s
+informou informar+V+is+3s
+informámos informar+V+is+1p informámo+N+mp
+informastes informar+V+is+2p
+informaram informar+V+is+3p informarar+V+ip+3p
+informarei informar+V+if+1s informarar+V+is+1s
+informarás informar+V+if+2s
+informará informar+V+if+3s
+informaremos informar+V+if+1p informaremo+N+mp
+informareis informar+V+if+2p
+informarão informar+V+if+3p informarão+N+ms informarãar+V+ip+1s
+nado nadar+V+ip+1s nado+N+ms
+nadas nadar+V+ip+2s nado+N+fp
+nada nadar+V+ip+3s nado+N+fs
+nadamos nadar+V+ip+1p nadamo+N+mp
+nadais nadar+V+ip+2p
+nadam nadar+V+ip+3p
+nadei nadar+V+is+1s
+nadaste nadar+V+is+2s
+nadou nadar+V+is+3s
+nadámos nadar+V+is+1p nadámo+N+mp
+nadastes nadar+V+is+2p
+nadaram nadar+V+is+3p nadarar+V+ip+3p
+nadarei nadar+V+if+1s nadarar+V+is+1s
+nadarás nadar+V+if+2s
+nadará nadar+V+if+3s
+nadaremos nadar+V+if+1p nadaremo+N+mp
+nadareis nadar+V+if+2p
+nadarão nadar+V+if+3p nadarão+N+ms nadarãar+V+ip+1s

@@ -1,5 +1,0 @@
-aluno+N+ms	aluno
-aluno+N+fs	aluna
-aluno+N+mp	alunos
-aluno+N+fp	alunas
-aluna+N+ms	
